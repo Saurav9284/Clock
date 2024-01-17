@@ -1,7 +1,7 @@
 ## Js Clock
 
 ## Live Preview
-### Link :- https://clock-saurav.vercel.app/
+<a src="https://clock-saurav.vercel.app/">Link</a>
 
 ![Screenshot 2024-01-17 113049](https://github.com/Saurav9284/Clock/assets/135011685/383a6b64-fc07-4a5c-838f-a4452168f9c4)
 
